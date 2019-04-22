@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubUsers", "GithubUsers\GithubUsers.csproj", "{BC914CBB-05AD-4910-91DE-409950E55FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubUsers.Tests", "GithubUsers.Tests\GithubUsers.Tests.csproj", "{E32F348A-CB20-46A0-B3F1-A9B107D22BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC914CBB-05AD-4910-91DE-409950E55FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC914CBB-05AD-4910-91DE-409950E55FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC914CBB-05AD-4910-91DE-409950E55FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC914CBB-05AD-4910-91DE-409950E55FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32F348A-CB20-46A0-B3F1-A9B107D22BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32F348A-CB20-46A0-B3F1-A9B107D22BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32F348A-CB20-46A0-B3F1-A9B107D22BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32F348A-CB20-46A0-B3F1-A9B107D22BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
